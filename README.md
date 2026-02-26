@@ -1,6 +1,6 @@
 # Zen Foley
 
-**Zen Foley** is a professional-grade AI sound effect generation model for video content. Based on HunyuanVideo-Foley, it generates high-fidelity audio synchronized with video scenes, perfect for filmmaking, game development, and content creation.
+**Zen Foley** is a professional-grade AI sound effect generation model for video content. Based on Zen Foley, it generates high-fidelity audio synchronized with video scenes, perfect for filmmaking, game development, and content creation.
 
 <p align="center">
   <a href="https://github.com/zenlm/zen-foley"><img src="https://img.shields.io/badge/GitHub-zenlm%2Fzen--foley-blue"></a>
@@ -28,7 +28,7 @@ Zen Foley generates professional sound effects synchronized with video content:
 - **Output**: Audio (48kHz WAV)
 - **Duration**: Up to 10 seconds
 - **Developed by**: Zen AI Team
-- **Based on**: [HunyuanVideo-Foley by Tencent](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley)
+- **Based on**: [Zen Foley by Zen LM](https://github.com/zenlm/Zen Foley)
 
 ## Capabilities
 
@@ -287,8 +287,8 @@ audios = pipeline.batch_generate(videos, batch_size=4)
   howpublished={\url{https://github.com/zenlm/zen-foley}}
 }
 
-@article{shan2025hunyuanvideo,
-  title={HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation},
+@article{shan2025zenvideo,
+  title={Zen Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation},
   author={Sizhe Shan and Qiulin Li and Yutao Cui and Miles Yang and Yuehai Wang and Qun Yang and Jin Zhou and Zhao Zhong},
   journal={arXiv preprint arXiv:2508.16930},
   year={2025}
@@ -297,7 +297,7 @@ audios = pipeline.batch_generate(videos, batch_size=4)
 
 ## Credits
 
-Zen Foley is based on [HunyuanVideo-Foley](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley) by Tencent Hunyuan. We thank the original authors for their excellent work in video-to-audio generation.
+Zen Foley is based on [Zen Foley](https://github.com/zenlm/Zen Foley) by Zen LM Zen. We thank the original authors for their excellent work in video-to-audio generation.
 
 ## Links
 
@@ -321,13 +321,13 @@ Part of the **[Zen AI](https://github.com/zenlm)** ecosystem.
 
 ## Based On
 
-**zen-foley** is based on [HunyuanVideo-Foley](https://github.com/Tencent/HunyuanVideo)
+**zen-foley** is based on [Zen Foley](https://github.com/zenlm/Zen Video)
 
 We are grateful to the original authors for their excellent work and open-source contributions.
 
 ### Upstream Source
-- **Repository**: https://github.com/Tencent/HunyuanVideo
-- **Base Model**: HunyuanVideo-Foley
+- **Repository**: https://github.com/zenlm/Zen Video
+- **Base Model**: Zen Foley
 - **License**: See original repository for license details
 
 ### Changes in Zen LM
@@ -351,4 +351,4 @@ If you use this model, please cite both the original work and Zen LM:
 }
 ```
 
-Please also cite the original upstream work - see https://github.com/Tencent/HunyuanVideo for citation details.
+Please also cite the original upstream work - see https://github.com/zenlm/Zen Video for citation details.
