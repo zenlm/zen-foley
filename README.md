@@ -166,7 +166,7 @@ Fine-tune for custom sound styles:
 ```bash
 cd /path/to/zen-gym
 
-llamafactory-cli train \
+zen-gym train \
     --config configs/zen_foley_lora.yaml \
     --dataset your_audio_video_dataset
 ```
