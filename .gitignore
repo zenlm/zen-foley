@@ -164,3 +164,5 @@ CLAUDE.md
 GEMINI.md
 GROK.md
 QWEN.md
+*.bin
+*.gguf
