@@ -1,11 +1,11 @@
-Zen Foley
-Copyright (c) 2024-2026 Zen LM, Inc.
+zen-foley
+Copyright 2025-2026 Zen Authors
 
-⚠ LICENSE STATUS — NOT UNCONDITIONALLY COMMERCIAL
-This repository is a fork of Tencent HunyuanVideo-Foley and is governed by the
-TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT (see LICENSE) — NOT the Apache
-License. Commercial use is restricted: a separate Tencent license is required
-above 100 million monthly active users, plus territorial and acceptable-use
-restrictions apply. Treat as research / limited-commercial until rebased.
+Licensed under the MIT License.
+Developed by the Zen Authors (https://zenlm.org).
 
-A commercial rebase onto MMAudio (MIT) is planned — see REBASE.md.
+Built on:
+MMAudio (https://github.com/hkchengrex/MMAudio, MIT) — a permissive, commercial-friendly video-to-audio foundation.
+
+Removed (non-permissive — not used):
+- Tencent HunyuanVideo-Foley (TENCENT HUNYUAN COMMUNITY LICENSE — commercial-capped at 100M MAU).

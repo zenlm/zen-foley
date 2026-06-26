@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Models / data (fetch on demand)
+*.safetensors
+*.bin
+*.gguf
+*.pth
+*.ckpt
+*.pt
+checkpoints/
+ckpts/
+weights/
+
+# OS / editor
+.DS_Store
+*.swp
