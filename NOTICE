@@ -1,5 +1,11 @@
-zen-foley
-Copyright 2025-2026 Zen Authors
+Zen Foley
+Copyright (c) 2024-2026 Zen LM, Inc.
 
-Licensed under the Apache License, Version 2.0.
-Developed by the Zen Authors (https://zenlm.org).
+⚠ LICENSE STATUS — NOT UNCONDITIONALLY COMMERCIAL
+This repository is a fork of Tencent HunyuanVideo-Foley and is governed by the
+TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT (see LICENSE) — NOT the Apache
+License. Commercial use is restricted: a separate Tencent license is required
+above 100 million monthly active users, plus territorial and acceptable-use
+restrictions apply. Treat as research / limited-commercial until rebased.
+
+A commercial rebase onto MMAudio (MIT) is planned — see REBASE.md.
